@@ -2,14 +2,10 @@
 This project focuses on predicting stock prices using Machine Learning techniques. Financial markets are highly dynamic and influenced by various factors, making price prediction a challenging task. In this project, I analyze historical stock market data and build predictive models to forecast future stock prices.The goal is to provide insights that can assist investors in making informed decisions
 
 ### Technologies Used
-**Programming Language**
-   - Python
-**Libraries**:
-   - Pandas, NumPy, Matplotlib, Scikit-learn
-**Visualization**:
-   - Matplotlib, Seaborn
-**ML model**:
-   - Random forest, KNN, SVM, Naive Bayes, Decision Tree
+- **Programming Language**: Python  
+- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Visualization**: Matplotlib, Seaborn  
+- **ML Models**: Random Forest, KNN, SVM, Naive Bayes, Decision Tree  
 
 ## Key steps
 **Data**
