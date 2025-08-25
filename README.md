@@ -8,18 +8,22 @@ This project focuses on predicting stock prices using Machine Learning technique
 - **ML Models**: Random Forest, KNN, SVM, Naive Bayes, Decision Tree  
 
 ## Key steps
-**Data**
+- **Data**
   - CSV
-**Data Cleaning & Preprocessing**
-  - Handling missing values
-  - Outlier treatment
-  - Normalization & scaling
- **Exploratory Data Analysis (EDA)**  
-   - Used **Seaborn** and **Matplotlib** for data visualization  
-   - Analyzed correlations, distributions, and outliers
-**Model Building**
-   - Train-Test split
-   - Training ML/DL models
+    
+- **Data Cleaning & Preprocessing**  
+  - Handling missing values  
+  - Outlier treatment  
+  - Normalization & scaling  
+
+- **Exploratory Data Analysis (EDA)**  
+  - Used Seaborn and Matplotlib for data visualization  
+  - Analyzed correlations, distributions, and outliers  
+
+- **Model Building**  
+  - Performed Train-Test split  
+  - Trained ML/DL models
+      
 ### Model Evaluation
 
 | Model               | Accuracy | Precision | Recall  | F1-score |
